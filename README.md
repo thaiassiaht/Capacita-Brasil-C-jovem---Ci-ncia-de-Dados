@@ -9,6 +9,7 @@ Todo o conteúdo foi desenvolvido com foco em aplicações práticas e resoluç�
 
 📁 Estrutura do Repositório
 📦 Projeto-Capacita-Brasil
+
 ├── Modulo_Basico/
 ├── Modulo_Intermediario/
 ├── Modulo_Avancado/
